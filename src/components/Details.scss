@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+#poster{
+    font-family: 'Be Vietnam Pro', sans-serif;
+
+    height: 400px;
+    width: 300px;
+    border-radius: 6px;
+    float: left;    
+    margin: 10px;
+}
+
+#details__div{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    @media only screen and (max-width: 710px){
+        display: block;
+        align-items: center;
+        justify-content: center;
+        #poster{
+            float: none;
+        }
+        #text{
+            margin-left: auto;
+            margin-right: auto;
+        }
+    }
+}
+#text{
+    font-family: 'Be Vietnam Pro', sans-serif;
+
+    display: block;
+    margin-right: auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: 200px;
+}
+
+#download{
+    border: 0;
+    outline: none;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+    font-weight: 800;
+    background-color: transparent;
+    *{
+        margin: 2px;
+    }
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;}
