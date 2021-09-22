@@ -3,7 +3,7 @@
   "name": "rom-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://partg952.github.io/romsmaster",
+  "homepage": "http://partg952.github.io/roms-website",
   "dependencies": {
     "@material-ui/icons": "^4.11.2",
     "@mui/icons-material": "^5.0.0",

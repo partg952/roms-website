@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/roms-website/static/css/main.0f87ef83.chunk.css",
+    "main.js": "/roms-website/static/js/main.48b036e7.chunk.js",
+    "main.js.map": "/roms-website/static/js/main.48b036e7.chunk.js.map",
+    "runtime-main.js": "/roms-website/static/js/runtime-main.d1287b9d.js",
+    "runtime-main.js.map": "/roms-website/static/js/runtime-main.d1287b9d.js.map",
+    "static/js/2.ac0c9f38.chunk.js": "/roms-website/static/js/2.ac0c9f38.chunk.js",
+    "static/js/2.ac0c9f38.chunk.js.map": "/roms-website/static/js/2.ac0c9f38.chunk.js.map",
+    "static/js/3.8f787ec1.chunk.js": "/roms-website/static/js/3.8f787ec1.chunk.js",
+    "static/js/3.8f787ec1.chunk.js.map": "/roms-website/static/js/3.8f787ec1.chunk.js.map",
+    "index.html": "/roms-website/index.html",
+    "static/css/main.0f87ef83.chunk.css.map": "/roms-website/static/css/main.0f87ef83.chunk.css.map",
+    "static/js/2.ac0c9f38.chunk.js.LICENSE.txt": "/roms-website/static/js/2.ac0c9f38.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/roms-website/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1287b9d.js",
+    "static/js/2.ac0c9f38.chunk.js",
+    "static/css/main.0f87ef83.chunk.css",
+    "static/js/main.48b036e7.chunk.js"
+  ]
+}
